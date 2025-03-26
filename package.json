@@ -1,0 +1,17 @@
+{
+  "name": "bot-whatsapp-gpt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0",
+    "@google/generative-ai": "^0.24.0",
+    "axios": "^1.8.4",
+    "openai": "^4.89.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "engines": {
+    "npm": ">=8.0.0",
+    "node": ">=16.0.0"
+  }
+}
